@@ -27,3 +27,5 @@ The program executes the following:
 ### Execution
 
 To execute, download the dataset and extract the compressed file into the same directory as `imdb_nlp.py` and `stopwords.en.txt`. Run with Python version 3.
+
+A confusion matrix and accuracy score of the four methods is outputted to the console upon completion of each.
